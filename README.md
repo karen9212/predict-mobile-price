@@ -7,3 +7,4 @@ Stages of project development:
 2. explore and prepare the data, add new features
 3. train the model and evaluate the quality on the test data, find optimal hyperparameters
  
+Metric: mean_absolute_error (MAE)
